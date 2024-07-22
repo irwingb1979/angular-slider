@@ -3,7 +3,7 @@
 
 This a simple Simple Angular 18 Color Slider
 
-Demo Link [link](https://my-first-angular-slider.netlify.app/)
+Demo [link](https://my-first-angular-slider.netlify.app/)
 
 ## Demo
 
