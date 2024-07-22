@@ -1,0 +1,8 @@
+<div id="slider" class="slider-big" [style]="'background-color: '+color">
+    <div [ngClass]="{'slideInRight': animation}" [id]="number">
+        <h1>{{ textSlide }}</h1>
+        <a href="#" class="btn-white">Blog</a>
+    </div>
+    <button class="arrow-left" (click)="left()"><i class="fa-solid fa-arrow-left"></i></button>
+    <button class="arrow-right" (click)="right()"><i class="fa-solid fa-arrow-right"></i></button>
+</div>
